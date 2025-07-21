@@ -1,0 +1,1 @@
+Day la 50 bai tap dau tien khi hoc C++ tai Ptit cua toi.
