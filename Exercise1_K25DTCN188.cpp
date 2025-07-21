@@ -1,6 +1,7 @@
 /*
 Nguyen Thanh Sang - PTIT - K25DTCN188
 Exercise 1: tinh tong tu 1 den N
+có thể dùng đệ quy hoặc dùng công thức.
 */
 
 #include <iostream>
